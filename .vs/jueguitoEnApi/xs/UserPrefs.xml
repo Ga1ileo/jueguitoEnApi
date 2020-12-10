@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A7BA0A3A-1FBB-486F-9941-A64B348C38EB}|Default">
+  <MonoDevelop.Ide.ItemProperties.jueguitoEnApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.razor">
+    <Files>
+      <File FileName="Pages/Index.razor" Line="93" Column="5" />
+      <File FileName="Models/Jugador.cs" />
+      <File FileName="Pages/Board.razor" />
+      <File FileName="DAL/Contexto.cs" />
+      <File FileName="BLL/JugadorBLL.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jueguitoEnApi" expanded="True">
+            <Node name="jueguitoEnApi" expanded="True">
+              <Node name="BLL" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

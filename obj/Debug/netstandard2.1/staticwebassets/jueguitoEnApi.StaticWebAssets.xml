@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/Users/miguelgondres/Projects/jueguitoEnApi/bin/Debug/netstandard2.1/wwwroot/" />
+  <ContentRoot BasePath="_content/Blazored.Toast" Path="/Users/miguelgondres/.nuget/packages/blazored.toast/3.1.2/build/../staticwebassets/" />
+</StaticWebAssets>
